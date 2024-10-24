@@ -18,6 +18,7 @@ public class CustomerModule extends BaseClass {
 	
 		String title = driver.getTitle();
 		System.out.println(title);
+		System.out.println("hi");
 	}
 
 }
